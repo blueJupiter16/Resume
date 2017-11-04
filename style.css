@@ -1,0 +1,57 @@
+header font {
+   position: absolute;
+   left: 650px;
+   font-size: 70px
+}
+header img {
+   border-radius: 999em;
+   border: 5px solid #004A84;
+   background: #000;
+   }
+
+   .container{
+      box-shadow: 2px 2px 18px black;
+      background: #FAFAFA;
+      margin:auto;
+      padding: 25px;
+      height: 1020px;
+      width: 60%;
+      border: 9px solid #004A84;
+   }
+   .left{
+      height: 800px;
+      float:left;
+
+      width: 39%;
+
+
+   }
+
+   .right{
+      height: 800px;
+      margin-left: -15px;
+      border-left: 4px double #004A84;
+      width: 60%;
+      float:right;
+
+
+   }
+   section{
+      font-family: 'Raleway';font-size:13px;
+      color: #5e5d5d;
+   }
+   td{
+      padding: 6px;
+   }
+   .bullet{
+      width: 15px;
+   }
+
+
+   .skill{
+      
+      margin: 15px;
+      text-align: center;
+      display: inline-block;
+      border-style: 1px solid black;
+   }
